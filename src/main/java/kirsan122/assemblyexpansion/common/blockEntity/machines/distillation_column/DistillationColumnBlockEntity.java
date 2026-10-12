@@ -71,7 +71,7 @@ public class DistillationColumnBlockEntity extends BlockEntity implements MenuPr
 
                 switch (index) {
                     case 0 -> DistillationColumnBlockEntity.this.progress = value;
-                    case 2 -> { /* Энергию на клиенте можно обновить при необходимости */ }
+                    case 2 -> {}
                 }
             }
 
