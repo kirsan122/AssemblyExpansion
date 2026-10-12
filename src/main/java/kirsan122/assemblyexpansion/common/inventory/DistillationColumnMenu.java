@@ -47,6 +47,14 @@ public class DistillationColumnMenu extends AbstractContainerMenu implements IFl
         return maxEnergy != 0 && energy != 0 ? (energy * energyBarHeight) / maxEnergy : 0;
     }
 
+    public int getEnergy() {
+        return data.get(2);
+    }
+
+    public int getMaxEnergy() {
+        return data.get(3);
+    }
+
     @Override
     public DistillationColumnBlockEntity getBlockEntity() { return this.blockEntity; }
 

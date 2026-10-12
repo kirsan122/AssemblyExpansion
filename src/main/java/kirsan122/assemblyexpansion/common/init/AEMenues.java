@@ -44,8 +44,8 @@ public class AEMenues {
     public static final RegistryObject<MenuType<FluidCoolerMenu>> FLUID_COOLER_MENU = MENUS.register("fluid_cooler_menu",
             () -> IForgeMenuType.create(FluidCoolerMenu::new));
 
-    public static final RegistryObject<MenuType<ChemicalMixerMenu>> CHEMICAL_MIXER_MENU = MENUS.register("chemical_mixer_menu",
-            () -> IForgeMenuType.create(ChemicalMixerMenu::new));
+//    public static final RegistryObject<MenuType<ChemicalMixerMenu>> CHEMICAL_MIXER_MENU = MENUS.register("chemical_mixer_menu",
+//            () -> IForgeMenuType.create(ChemicalMixerMenu::new));
 
     public static void register(IEventBus eventBus) {
         MENUS.register(eventBus);
