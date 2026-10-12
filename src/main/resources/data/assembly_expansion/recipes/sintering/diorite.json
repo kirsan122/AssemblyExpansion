@@ -1,0 +1,14 @@
+{
+  "type": "assembly_expansion:sintering",
+  "base": {
+    "item": "minecraft:cobblestone"
+  },
+  "infusor": {
+    "tag": "forge:gems/quartz",
+    "count": 2
+  },
+  "result": {
+    "item": "minecraft:diorite",
+    "count": 2
+  }
+}

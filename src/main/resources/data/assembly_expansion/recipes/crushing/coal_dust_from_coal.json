@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:gems/coal"
+  },
+  "result": {
+    "item": "assembly_expansion:coal_dust"
+  },
+  "energyConsumption": 20
+}

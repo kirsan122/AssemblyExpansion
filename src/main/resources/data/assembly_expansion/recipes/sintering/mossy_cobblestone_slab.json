@@ -1,0 +1,12 @@
+{
+  "type": "assembly_expansion:sintering",
+  "base": {
+    "item": "minecraft:cobblestone_slab"
+  },
+  "infusor": {
+    "tag": "assembly_expansion:items_for_mossy_blocks"
+  },
+  "result": {
+    "item": "minecraft:mossy_cobblestone_slab"
+  }
+}

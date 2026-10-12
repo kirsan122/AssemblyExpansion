@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:polished_granite_slab"
+  },
+  "result": {
+    "item": "minecraft:granite_slab"
+  },
+  "energyConsumption": 15
+}

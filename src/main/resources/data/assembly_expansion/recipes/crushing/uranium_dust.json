@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:ingots/uranium"
+  },
+  "result": {
+    "item": "assembly_expansion:uranium_dust"
+  },
+  "energyConsumption": 20
+}

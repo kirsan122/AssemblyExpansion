@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "assembly_expansion:block/fluid_cooler" },
+    "facing=south": { "model": "assembly_expansion:block/fluid_cooler", "y": 180 },
+    "facing=west":  { "model": "assembly_expansion:block/fluid_cooler", "y": 270 },
+    "facing=east":  { "model": "assembly_expansion:block/fluid_cooler", "y": 90 }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:ores/copper"
+  },
+  "result": {
+    "item": "assembly_expansion:copper_dust",
+    "count": 2
+  },
+  "energyConsumption": 20
+}

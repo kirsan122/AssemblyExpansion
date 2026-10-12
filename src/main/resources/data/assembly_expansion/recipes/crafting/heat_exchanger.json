@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "tag": "forge:plates/copper"
+    },
+    "#": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    " P ",
+    "#P#",
+    " P "
+  ],
+  "result": {
+    "item": "assembly_expansion:heat_exchanger"
+  },
+  "show_notification": true
+}

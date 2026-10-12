@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:polished_andesite_stairs"
+  },
+  "result": {
+    "item": "minecraft:andesite_stairs"
+  },
+  "energyConsumption": 15
+}

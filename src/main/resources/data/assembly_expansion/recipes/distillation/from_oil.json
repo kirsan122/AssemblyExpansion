@@ -1,0 +1,13 @@
+{
+  "type": "assembly_expansion:distillation",
+  "input": {
+    "fluid": "assembly_expansion:oil",
+    "amount": 100
+  },
+  "outputs": {
+    "output_0": { "fluid": "assembly_expansion:propane", "amount": 15 },
+    "output_1": { "fluid": "assembly_expansion:gasoline", "amount": 20 },
+    "output_2": { "fluid": "assembly_expansion:diesel", "amount": 25 },
+    "output_3": { "fluid": "assembly_expansion:heavy_oil", "amount": 40 }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "assembly_expansion:block/hevea/hevea_slab" },
+    "type=top": { "model": "assembly_expansion:block/hevea/hevea_slab_top" },
+    "type=double": { "model": "assembly_expansion:block/hevea/hevea_planks" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 160,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "assembly_expansion:purified_rubber"
+  },
+  "result": {
+    "item": "assembly_expansion:rubber",
+    "count": 3
+  }
+}

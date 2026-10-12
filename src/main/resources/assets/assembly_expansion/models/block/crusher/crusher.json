@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "assembly_expansion:block/crusher/crusher_top",
+    "up": "assembly_expansion:block/crusher/crusher_top",
+    "down": "assembly_expansion:block/crusher/crusher_bottom",
+    "north": "assembly_expansion:block/crusher/crusher_front",
+    "south": "assembly_expansion:block/crusher/crusher_back",
+    "east": "assembly_expansion:block/crusher/crusher_side",
+    "west": "assembly_expansion:block/crusher/crusher_side"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "assembly_expansion:block/fluid_tank"}
+  }
+}

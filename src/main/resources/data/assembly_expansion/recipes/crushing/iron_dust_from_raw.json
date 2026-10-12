@@ -1,0 +1,11 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:raw_materials/iron"
+  },
+  "result": {
+    "item": "assembly_expansion:iron_dust",
+    "count": 2
+  },
+  "energyConsumption": 20
+}

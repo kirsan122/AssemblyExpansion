@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:plates/copper"
+    },
+    {
+      "item": "assembly_expansion:wire_cutters"
+    }
+  ],
+  "result": {
+    "item": "assembly_expansion:copper_wire",
+    "count": 8
+  },
+  "show_notification": true
+}

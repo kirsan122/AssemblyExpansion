@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:plates/steel"
+  },
+  "result": {
+    "item": "assembly_expansion:steel_dust"
+  },
+  "energyConsumption": 20
+}

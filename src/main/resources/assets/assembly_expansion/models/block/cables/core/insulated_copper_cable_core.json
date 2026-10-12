@@ -1,0 +1,7 @@
+{
+  "parent": "assembly_expansion:block/cables/core/insulated_cable_core",
+  "textures": {
+    "main": "assembly_expansion:block/cables/copper_cable",
+    "rubber": "assembly_expansion:block/cables/rubber_on_cable"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:polished_granite"
+  },
+  "result": {
+    "item": "minecraft:granite"
+  },
+  "energyConsumption": 15
+}

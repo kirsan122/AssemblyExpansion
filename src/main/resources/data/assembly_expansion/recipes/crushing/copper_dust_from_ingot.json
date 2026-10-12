@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:ingots/copper"
+  },
+  "result": {
+    "item": "assembly_expansion:copper_dust"
+  },
+  "energyConsumption": 20
+}

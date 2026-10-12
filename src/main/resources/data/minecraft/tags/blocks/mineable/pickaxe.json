@@ -1,0 +1,22 @@
+{
+  "values": [
+    "assembly_expansion:tin_ore",
+    "assembly_expansion:deepslate_tin_ore",
+    "assembly_expansion:tin_block",
+    "assembly_expansion:raw_tin_block",
+    "assembly_expansion:machine_frame",
+    "assembly_expansion:crusher",
+    "assembly_expansion:generator",
+    "assembly_expansion:electric_furnace",
+    "assembly_expansion:lead_ore",
+    "assembly_expansion:deepslate_lead_ore",
+    "assembly_expansion:raw_lead_block",
+    "assembly_expansion:lead_block",
+    "assembly_expansion:mechanical_sinterer",
+    "assembly_expansion:fluid_tank",
+    "assembly_expansion:distillation_column_base",
+    "assembly_expansion:distillation_column_section",
+    "assembly_expansion:distillation_column_top",
+    "assembly_expansion:deepslate_uranium_ore"
+  ]
+}

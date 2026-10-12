@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "assembly_expansion:liquid/oil_still"
+    },
+    {
+      "type": "single",
+      "resource": "assembly_expansion:liquid/oil_flow"
+    }
+  ]
+}

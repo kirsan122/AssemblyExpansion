@@ -1,0 +1,14 @@
+{
+  "type": "assembly_expansion:sintering",
+  "base": {
+    "tag": "forge:ingots/copper",
+    "count": 3
+  },
+  "infusor": {
+    "tag": "forge:dusts/tin"
+  },
+  "result": {
+    "item": "assembly_expansion:bronze_ingot",
+    "count": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:polished_diorite"
+  },
+  "result": {
+    "item": "minecraft:diorite"
+  },
+  "energyConsumption": 15
+}

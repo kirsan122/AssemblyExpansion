@@ -1,0 +1,43 @@
+{
+  "variants": {
+    "axis=y,dry_stage=0,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log" },
+    "axis=x,dry_stage=0,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log", "x": 90, "y": 90 },
+    "axis=z,dry_stage=0,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log", "x": 90 },
+    "axis=y,dry_stage=0,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log" },
+    "axis=x,dry_stage=0,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log", "x": 90, "y": 90 },
+    "axis=z,dry_stage=0,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log", "x": 90 },
+
+    "axis=y,dry_stage=3,scratched_side=north,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log_scratched" },
+    "axis=y,dry_stage=3,scratched_side=east,placed_by_player=false":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched", "y": 90 },
+    "axis=y,dry_stage=3,scratched_side=south,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log_scratched", "y": 180 },
+    "axis=y,dry_stage=3,scratched_side=west,placed_by_player=false":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched", "y": 270 },
+
+    "axis=y,dry_stage=2,scratched_side=north,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log_scratched_dry" },
+    "axis=y,dry_stage=2,scratched_side=east,placed_by_player=false":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched_dry", "y": 90 },
+    "axis=y,dry_stage=2,scratched_side=south,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log_scratched_dry", "y": 180 },
+    "axis=y,dry_stage=2,scratched_side=west,placed_by_player=false":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched_dry", "y": 270 },
+
+    "axis=y,dry_stage=1,scratched_side=north,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed" },
+    "axis=y,dry_stage=1,scratched_side=east,placed_by_player=false":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed", "y": 90 },
+    "axis=y,dry_stage=1,scratched_side=south,placed_by_player=false": { "model": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed", "y": 180 },
+    "axis=y,dry_stage=1,scratched_side=west,placed_by_player=false":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed", "y": 270 },
+
+
+    "axis=y,dry_stage=3,scratched_side=north,placed_by_player=true": { "model": "assembly_expansion:block/hevea/hevea_log_scratched" },
+    "axis=y,dry_stage=3,scratched_side=east,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched", "y": 90 },
+    "axis=y,dry_stage=3,scratched_side=south,placed_by_player=true": { "model": "assembly_expansion:block/hevea/hevea_log_scratched", "y": 180 },
+    "axis=y,dry_stage=3,scratched_side=west,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched", "y": 270 },
+
+    "axis=y,dry_stage=2,scratched_side=north,placed_by_player=true": { "model": "assembly_expansion:block/hevea/hevea_log_scratched_dry" },
+    "axis=y,dry_stage=2,scratched_side=east,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched_dry", "y": 90 },
+    "axis=y,dry_stage=2,scratched_side=south,placed_by_player=true": { "model": "assembly_expansion:block/hevea/hevea_log_scratched_dry", "y": 180 },
+    "axis=y,dry_stage=2,scratched_side=west,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched_dry", "y": 270 },
+
+    "axis=y,dry_stage=1,scratched_side=north,placed_by_player=true": { "model": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed" },
+    "axis=y,dry_stage=1,scratched_side=east,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed", "y": 90 },
+    "axis=y,dry_stage=1,scratched_side=south,placed_by_player=true": { "model": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed", "y": 180 },
+    "axis=y,dry_stage=1,scratched_side=west,placed_by_player=true":  { "model": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed", "y": 270 }
+
+
+  }
+}

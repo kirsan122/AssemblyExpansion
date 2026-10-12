@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "assembly_expansion:hevea_planks"
+    }
+  ],
+  "result": {
+    "item": "assembly_expansion:hevea_button"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "assembly_expansion:sintering",
+  "base": {
+    "item": "minecraft:diorite"
+  },
+  "infusor": {
+    "tag": "forge:gems/quartz"
+  },
+  "result": {
+    "item": "minecraft:granite",
+    "count": 2
+  }
+}

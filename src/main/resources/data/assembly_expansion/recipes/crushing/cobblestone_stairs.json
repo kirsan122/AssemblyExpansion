@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:stone_stairs"
+  },
+  "result": {
+    "item": "minecraft:cobblestone_stairs"
+  },
+  "energyConsumption": 15
+}

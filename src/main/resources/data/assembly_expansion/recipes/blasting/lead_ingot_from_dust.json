@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "assembly_expansion:lead_ingot",
+  "ingredient": {
+    "item": "assembly_expansion:lead_dust"
+  },
+  "result": "assembly_expansion:lead_ingot"
+}

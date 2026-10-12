@@ -1,0 +1,11 @@
+{
+  "type": "assembly_expansion:distillation",
+  "input": {
+    "fluid": "assembly_expansion:liquefied_air",
+    "amount": 1
+  },
+  "outputs": {
+    "output_0": { "fluid": "assembly_expansion:nitrogen", "amount": 546 },
+    "output_1": { "fluid": "assembly_expansion:oxygen", "amount": 147 }
+  }
+}

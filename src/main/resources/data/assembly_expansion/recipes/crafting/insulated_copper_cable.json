@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "assembly_expansion:rubber"
+    },
+    {
+      "item": "assembly_expansion:copper_cable"
+    }
+  ],
+  "result": {
+    "item": "assembly_expansion:insulated_copper_cable"
+  },
+  "show_notification": true
+}

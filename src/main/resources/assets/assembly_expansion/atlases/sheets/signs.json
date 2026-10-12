@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "assembly_expansion:entity/signs/hevea",
+      "sprite": "assembly_expansion:entity/signs/hevea"
+    }
+  ]
+}

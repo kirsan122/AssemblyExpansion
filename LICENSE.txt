@@ -1,0 +1,15 @@
+========================================================================
+Copyright (c) 2025-2026 kirsan122 (Independent Developer).
+Project "Assembly Expansion" — First block conceived May 7, 2025.
+All Rights Reserved.
+========================================================================
+
+Permission is hereby granted to view and download the source code of this project for educational and review purposes only.
+
+RESTRICTIONS:
+1. You may not misrepresent the authorship of this software. You cannot claim this code as your own or under any name other than kirsan122.
+2. You are strictly prohibited from using, modifying, or distributing this software (or its derivatives) in any manner that defames, misrepresents, or puts the original author (kirsan122) or the "Assembly Expansion" project in a bad light.
+3. This code is provided "as-is", primarily as a personal portfolio piece. The author is not responsible for any stability issues, bugs, or lack of gameplay content.
+
+Any modification or redistribution requires explicit written permission from kirsan122.
+

@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:ingots/lead"
+  },
+  "result": {
+    "item": "assembly_expansion:lead_dust"
+  },
+  "energyConsumption": 20
+}

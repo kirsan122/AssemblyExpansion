@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "V": {
+      "item": "assembly_expansion:fan"
+    },
+    "F": {
+      "tag": "forge:machine_frames"
+    },
+    "S": {
+      "tag": "forge:plates/steel"
+    },
+    "B": {
+      "tag": "forge:ingots/bronze"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "VFV",
+    "BCB"
+  ],
+  "result": {
+    "item": "assembly_expansion:air_collector"
+  },
+  "show_notification": true
+}

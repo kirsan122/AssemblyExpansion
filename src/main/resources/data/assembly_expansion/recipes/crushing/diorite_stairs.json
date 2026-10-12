@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:polished_diorite_stairs"
+  },
+  "result": {
+    "item": "minecraft:diorite_stairs"
+  },
+  "energyConsumption": 15
+}

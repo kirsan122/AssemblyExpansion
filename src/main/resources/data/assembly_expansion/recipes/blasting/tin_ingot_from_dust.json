@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "assembly_expansion:tin_ingot",
+  "ingredient": {
+    "item": "assembly_expansion:tin_dust"
+  },
+  "result": "assembly_expansion:tin_ingot"
+}

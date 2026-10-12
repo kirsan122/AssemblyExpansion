@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "assembly_expansion:item/buckets/latex_bucket"
+  }
+}

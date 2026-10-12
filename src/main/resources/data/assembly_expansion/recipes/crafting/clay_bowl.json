@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:brick"
+    }
+  },
+  "pattern": [
+    "# #",
+    "# #",
+    " # "
+  ],
+  "result": {
+    "count": 2,
+    "item": "assembly_expansion:clay_bowl"
+  },
+  "show_notification": true
+}

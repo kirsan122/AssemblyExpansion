@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "assembly_expansion:block/hevea/hevea_log",
+    "up": "assembly_expansion:block/hevea/hevea_log_top",
+    "down": "assembly_expansion:block/hevea/hevea_log_top",
+    "north": "assembly_expansion:block/hevea/hevea_log_scratched_almost_healed",
+    "south": "assembly_expansion:block/hevea/hevea_log",
+    "east": "assembly_expansion:block/hevea/hevea_log",
+    "west": "assembly_expansion:block/hevea/hevea_log"
+  }
+}

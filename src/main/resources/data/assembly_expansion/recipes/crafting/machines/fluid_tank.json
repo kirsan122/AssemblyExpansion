@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "#": {
+      "tag": "forge:plates/tin"
+    }
+  },
+  "pattern": [
+    "RGR",
+    "# #",
+    "RGR"
+  ],
+  "result": {
+    "item": "assembly_expansion:fluid_tank"
+  },
+  "show_notification": true
+}

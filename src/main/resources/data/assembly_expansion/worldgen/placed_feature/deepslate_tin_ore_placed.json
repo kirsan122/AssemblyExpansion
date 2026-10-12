@@ -1,0 +1,16 @@
+{
+  "feature": "assembly_expansion:deepslate_tin_ore",
+  "placement": [
+    { "type": "minecraft:count", "count": 10 },
+    { "type": "minecraft:in_square" },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": { "absolute": -64 },
+        "max_inclusive": { "absolute": -52 }
+      }
+    },
+    { "type": "minecraft:biome" }
+  ]
+}

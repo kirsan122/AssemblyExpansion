@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "assembly_expansion:block/storage_blocks/raw_lead_block"
+    }
+  }
+}

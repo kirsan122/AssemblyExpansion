@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "tag": "forge:rubber"
+    },
+    "#": {
+      "tag": "forge:plates/lead"
+    }
+  },
+  "pattern": [
+    "# #",
+    "R R"
+  ],
+  "result": {
+    "item": "assembly_expansion:anti_radiation_boots"
+  },
+  "show_notification": true
+}

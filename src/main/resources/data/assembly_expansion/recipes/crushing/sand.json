@@ -1,0 +1,11 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecrfat:sandstone"
+  },
+  "result": {
+    "item": "minecrfat:sand",
+    "count": 2
+  },
+  "energyConsumption": 12
+}
