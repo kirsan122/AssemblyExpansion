@@ -1,0 +1,11 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:storage_blocks/coal"
+  },
+  "result": {
+    "item": "assembly_expansion:coal_dust",
+    "count": 9
+  },
+  "energyConsumption": 20
+}

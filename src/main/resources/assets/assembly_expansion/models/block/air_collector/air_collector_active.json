@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "assembly_expansion:block/air_collector/air_collector_top",
+    "up": "assembly_expansion:block/air_collector/air_collector_top_active",
+    "down": "assembly_expansion:block/universal_bottom",
+    "north": "assembly_expansion:block/air_collector/air_collector_front",
+    "south": "assembly_expansion:block/air_collector/air_collector_back",
+    "east": "assembly_expansion:block/air_collector/air_collector_side",
+    "west": "assembly_expansion:block/air_collector/air_collector_side"
+  }
+}

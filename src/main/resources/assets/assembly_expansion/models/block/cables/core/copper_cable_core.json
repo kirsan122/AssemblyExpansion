@@ -1,0 +1,6 @@
+{
+  "parent": "assembly_expansion:block/cables/core/cable_core",
+  "textures": {
+    "texture": "assembly_expansion:block/cables/copper_cable"
+  }
+}

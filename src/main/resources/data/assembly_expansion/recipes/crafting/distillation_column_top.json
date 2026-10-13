@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "tag": "forge:plates/bronze"
+    },
+    "#": {
+      "tag": "forge:plates/steel"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    " I ",
+    "#B#"
+  ],
+  "result": {
+    "item": "assembly_expansion:distillation_column_top"
+  },
+  "show_notification": true
+}

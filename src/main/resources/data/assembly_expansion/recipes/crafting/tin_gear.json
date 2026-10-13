@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " T ",
+    "T T",
+    " T "
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:ingots/tin"
+    }
+  },
+  "result": {
+    "item": "assembly_expansion:tin_gear"
+  },
+  "show_notification": true
+}

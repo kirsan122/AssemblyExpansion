@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " B ",
+    "IMI",
+    "#F#"
+  ],
+  "key": {
+    "B": {
+      "item": "assembly_expansion:battery"
+    },
+    "M": {
+      "tag": "forge:machine_frames"
+    },
+    "#": {
+      "tag": "forge:ingots/iron"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "result": {
+    "item": "assembly_expansion:generator"
+  },
+  "show_notification": true
+}

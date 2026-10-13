@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:stone_brick_wall"
+  },
+  "result": {
+    "item": "minecraft:stone_wall"
+  },
+  "energyConsumption": 15
+}

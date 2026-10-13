@@ -1,0 +1,14 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": {
+    "item": "minecraft:quartz"
+  },
+  "resultSecond": {
+    "item": "minecraft:cobblestone",
+    "chance": 0.5
+  },
+  "energyConsumption": 15
+}

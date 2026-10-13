@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_sign",
+  "key": {
+    "H": {
+      "item": "assembly_expansion:hevea_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "HHH",
+    " S "
+  ],
+  "result": {
+    "count": 3,
+    "item": "assembly_expansion:hevea_sign"
+  },
+  "show_notification": true
+}

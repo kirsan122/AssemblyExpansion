@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "assembly_expansion:block/hevea/hevea_planks",
+    "top": "assembly_expansion:block/hevea/hevea_planks",
+    "side": "assembly_expansion:block/hevea/hevea_planks"
+  }
+}

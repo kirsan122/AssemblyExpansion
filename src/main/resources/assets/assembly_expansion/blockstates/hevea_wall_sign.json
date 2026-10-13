@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "facing=north": { "model": "assembly_expansion:block/hevea/hevea_sign" },
+    "facing=east": { "model": "assembly_expansion:block/hevea/hevea_sign", "y": 90 },
+    "facing=south": { "model": "assembly_expansion:block/hevea/hevea_sign", "y": 180 },
+    "facing=west": { "model": "assembly_expansion:block/hevea/hevea_sign", "y": 270 }
+  }
+}
+

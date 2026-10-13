@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "assembly_expansion:raw_lead_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "assembly_expansion:raw_lead"
+  },
+  "show_notification": true
+}

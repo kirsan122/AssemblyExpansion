@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,is_structure_valid=false": { "model": "assembly_expansion:block/distillation_column/distillation_column_base" },
+    "facing=south,is_structure_valid=false": { "model": "assembly_expansion:block/distillation_column/distillation_column_base", "y": 180 },
+    "facing=west,is_structure_valid=false":  { "model": "assembly_expansion:block/distillation_column/distillation_column_base", "y": 270 },
+    "facing=east,is_structure_valid=false":  { "model": "assembly_expansion:block/distillation_column/distillation_column_base", "y": 90 },
+
+    "facing=north,is_structure_valid=true":  { "model": "assembly_expansion:block/distillation_column/distillation_column_base_active" },
+    "facing=south,is_structure_valid=true":  { "model": "assembly_expansion:block/distillation_column/distillation_column_base_active", "y": 180 },
+    "facing=west,is_structure_valid=true":   { "model": "assembly_expansion:block/distillation_column/distillation_column_base_active", "y": 270 },
+    "facing=east,is_structure_valid=true":   { "model": "assembly_expansion:block/distillation_column/distillation_column_base_active", "y": 90 }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "item": "minecraft:granite"
+  },
+  "result": {
+    "item": "minecraft:quartz"
+  },
+  "resultSecond": {
+    "item": "minecraft:diorite",
+    "chance": 0.3
+  },
+  "energyConsumption": 15
+}

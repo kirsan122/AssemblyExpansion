@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "Y": {
+      "tag": "forge:dyes/yellow"
+    },
+    "R": {
+      "tag": "forge:rubber"
+    },
+    "#": {
+      "tag": "forge:plates/lead"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "pattern": [
+    "#Y#",
+    "RGR"
+  ],
+  "result": {
+    "item": "assembly_expansion:anti_radiation_helmet"
+  },
+  "show_notification": true
+}

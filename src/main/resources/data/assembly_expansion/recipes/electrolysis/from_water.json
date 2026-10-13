@@ -1,0 +1,11 @@
+{
+  "type": "assembly_expansion:electrolysis",
+  "input": {
+    "fluid": "minecraft:water",
+    "amount": 2
+  },
+  "outputs": {
+    "output_0": { "fluid": "assembly_expansion:hydrogen", "amount": 2 },
+    "output_1": { "fluid": "assembly_expansion:oxygen", "amount": 1 }
+  }
+}

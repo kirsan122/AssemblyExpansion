@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,active=false": { "model": "assembly_expansion:block/crusher/crusher" },
+    "facing=south,active=false": { "model": "assembly_expansion:block/crusher/crusher", "y": 180 },
+    "facing=west,active=false":  { "model": "assembly_expansion:block/crusher/crusher", "y": 270 },
+    "facing=east,active=false":  { "model": "assembly_expansion:block/crusher/crusher", "y": 90 },
+
+    "facing=north,active=true":  { "model": "assembly_expansion:block/crusher/crusher_active" },
+    "facing=south,active=true":  { "model": "assembly_expansion:block/crusher/crusher_active", "y": 180 },
+    "facing=west,active=true":   { "model": "assembly_expansion:block/crusher/crusher_active", "y": 270 },
+    "facing=east,active=true":   { "model": "assembly_expansion:block/crusher/crusher_active", "y": 90 }
+  }
+}

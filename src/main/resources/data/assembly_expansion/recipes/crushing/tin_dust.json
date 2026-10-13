@@ -1,0 +1,15 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:ores/tin"
+  },
+  "result": {
+    "item": "assembly_expansion:tin_dust",
+    "count": 2
+  },
+  "resultSecond": {
+    "item": "assembly_expansion:iron_dust",
+    "chance": 0.25
+  },
+  "energyConsumption": 20
+}

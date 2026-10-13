@@ -1,0 +1,61 @@
+{
+  "type": "assembly_expansion:generator_fuel",
+  "fuels": [
+    {
+      "ingredient": {
+        "tag": "forge:storage_blocks/charcoal",
+        "optional": true
+      },
+      "energy": 39600
+    },
+    {
+      "ingredient": {
+        "tag": "forge:coal_coke",
+        "optional": true
+      },
+      "energy": 8800
+    },
+    {
+      "ingredient": {
+        "tag": "forge:storage_blocks/coal_coke",
+        "optional": true
+      },
+      "energy": 79200
+    },
+    {
+      "ingredient": {
+        "tag": "forge:peat",
+        "optional": true
+      },
+      "energy": 5500
+    },
+    {
+      "ingredient": {
+        "tag": "forge:storage_blocks/peat",
+        "optional": true
+      },
+      "energy": 55000
+    },
+    {
+      "ingredient": {
+        "tag": "forge:gears/wooden",
+        "optional": true
+      },
+      "energy": 220
+    },
+    {
+      "ingredient": {
+        "tag": "forge:dusts/coal",
+        "optional": true
+      },
+      "energy": 4400
+    },
+    {
+      "ingredient": {
+        "tag": "forge:dusts/charcoal",
+        "optional": true
+      },
+      "energy": 4400
+    }
+  ]
+}

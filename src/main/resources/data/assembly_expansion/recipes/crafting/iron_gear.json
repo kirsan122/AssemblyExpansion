@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " T ",
+    "T T",
+    " T "
+  ],
+  "key": {
+    "T": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "assembly_expansion:iron_gear"
+  },
+  "show_notification": true
+}

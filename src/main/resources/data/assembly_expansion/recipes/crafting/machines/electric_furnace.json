@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "IGI",
+    "RMR",
+    "IGI"
+  ],
+  "key": {
+    "M": {
+      "tag": "forge:machine_frames"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "assembly_expansion:electric_furnace"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "tag": "forge:ingots/iron"
+    },
+    "T": {
+      "tag": "forge:plates/tin"
+    }
+  },
+  "pattern": [
+    "# #",
+    " T ",
+    "# #"
+  ],
+  "result": {
+    "item": "assembly_expansion:fan"
+  },
+  "show_notification": true
+}

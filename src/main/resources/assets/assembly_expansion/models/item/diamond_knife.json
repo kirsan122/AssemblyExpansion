@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "assembly_expansion:item/tools/knife_lever",
+    "layer1": "assembly_expansion:item/tools/knife_diamond"
+  }
+}

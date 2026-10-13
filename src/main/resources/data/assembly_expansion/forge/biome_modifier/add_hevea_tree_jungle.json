@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_jungle",
+  "features": [
+    "assembly_expansion:small_hevea_tree_placed",
+    "assembly_expansion:big_hevea_tree_placed"
+  ],
+  "step": "vegetal_decoration"
+}

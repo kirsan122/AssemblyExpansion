@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/bronze"
+    },
+    {
+      "item": "assembly_expansion:engineering_hammer"
+    }
+  ],
+  "result": {
+    "item": "assembly_expansion:bronze_plate"
+  },
+  "show_notification": true
+}

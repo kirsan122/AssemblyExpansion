@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "assembly_expansion:block/mechanical_sinterer" },
+    "facing=south": { "model": "assembly_expansion:block/mechanical_sinterer", "y": 180 },
+    "facing=west":  { "model": "assembly_expansion:block/mechanical_sinterer", "y": 270 },
+    "facing=east":  { "model": "assembly_expansion:block/mechanical_sinterer", "y": 90 }
+  }
+}

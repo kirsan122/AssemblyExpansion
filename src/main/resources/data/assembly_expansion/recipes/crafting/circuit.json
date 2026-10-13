@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "assembly_expansion:circuit",
+  "key": {
+    "P": {
+      "tag": "forge:plates/copper"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "#": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "pattern": [
+    "#R#",
+    "#P#",
+    "#R#"
+  ],
+  "result": {
+    "item": "assembly_expansion:circuit"
+  },
+  "show_notification": true
+}

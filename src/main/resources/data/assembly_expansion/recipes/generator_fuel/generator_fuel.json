@@ -1,0 +1,199 @@
+{
+  "type": "assembly_expansion:generator_fuel",
+  "fuels": [
+    {
+      "ingredient": {
+        "tag": "minecraft:coals"
+      },
+      "energy": 4400
+    },
+    {
+      "ingredient": {
+        "tag": "forge:storage_blocks/coal"
+      },
+      "energy": 39600
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:bowl"
+      },
+      "energy": 175
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:paper"
+      },
+      "energy": 100
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:cactus"
+      },
+      "energy": 150
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:logs_that_burn"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:planks"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wooden_pressure_plates"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wooden_trapdoors"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:fence_gates"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wooden_fences"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wooden_stairs"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:banners"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:crafting_table"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:fletching_table"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:cartography_table"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:loom"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:composter"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:barrel"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:lectern"
+      },
+      "energy": 825
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wooden_slabs"
+      },
+      "energy": 412
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wooden_doors"
+      },
+      "energy": 550
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wooden_buttons"
+      },
+      "energy": 275
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:saplings"
+      },
+      "energy": 275
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wool_carpets"
+      },
+      "energy": 187
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:wool"
+      },
+      "energy": 275
+    },
+    {
+      "ingredient": {
+        "tag": "forge:rods/wooden"
+      },
+      "energy": 200
+    },
+    {
+      "ingredient": {
+        "item": "minecraft:scaffolding"
+      },
+      "energy": 137
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:signs"
+      },
+      "energy": 275
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:hanging_signs"
+      },
+      "energy": 2200
+    },
+    {
+      "ingredient": {
+        "tag": "forge:chests/wooden"
+      },
+      "energy": 550
+    },
+    {
+      "ingredient": {
+        "tag": "minecraft:leaves"
+      },
+      "energy": 250
+    }
+
+
+  ]
+}

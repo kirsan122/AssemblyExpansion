@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "item": "assembly_expansion:engineering_hammer"
+    }
+  ],
+  "result": {
+    "item": "assembly_expansion:steel_plate",
+    "count": 1
+  },
+  "show_notification": true
+}

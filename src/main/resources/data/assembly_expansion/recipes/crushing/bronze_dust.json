@@ -1,0 +1,10 @@
+{
+  "type": "assembly_expansion:crushing",
+  "ingredient": {
+    "tag": "forge:ingots/bronze"
+  },
+  "result": {
+    "item": "assembly_expansion:bronze_dust"
+  },
+  "energyConsumption": 20
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "Y": {
+      "tag": "forge:dyes/yellow"
+    },
+    "R": {
+      "tag": "forge:rubber"
+    },
+    "#": {
+      "tag": "forge:plates/lead"
+    }
+  },
+  "pattern": [
+    "#Y#",
+    "###",
+    "R#R"
+  ],
+  "result": {
+    "item": "assembly_expansion:anti_radiation_chestplate"
+  },
+  "show_notification": true
+}

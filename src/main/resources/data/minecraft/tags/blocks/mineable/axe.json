@@ -1,0 +1,23 @@
+{
+  "values": [
+    "assembly_expansion:hevea_log",
+    "assembly_expansion:hevea_fence",
+    "assembly_expansion:hevea_stairs",
+    "assembly_expansion:hevea_planks",
+    "assembly_expansion:hevea_slab",
+    "assembly_expansion:hevea_planks",
+    "assembly_expansion:hevea_door",
+    "assembly_expansion:hevea_trapdoor",
+    "assembly_expansion:hevea_fence_gate",
+    "assembly_expansion:hevea_button",
+    "assembly_expansion:hevea_pressure_plate",
+    "assembly_expansion:hevea_sign",
+    "assembly_expansion:hevea_wall_sign",
+    "assembly_expansion:hevea_hanging_sign",
+    "assembly_expansion:hevea_wall_hanging_sign",
+    "assembly_expansion:hevea_wood",
+    "assembly_expansion:stripped_hevea_log",
+    "assembly_expansion:stripped_hevea_wood"
+
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "assembly_expansion:block/distillation_column/distillation_column_top" },
+    "facing=east": { "model": "assembly_expansion:block/distillation_column/distillation_column_top", "y": 90 },
+    "facing=south": { "model": "assembly_expansion:block/distillation_column/distillation_column_top", "y": 180 },
+    "facing=west": { "model": "assembly_expansion:block/distillation_column/distillation_column_top", "y": 270 }
+  }
+}

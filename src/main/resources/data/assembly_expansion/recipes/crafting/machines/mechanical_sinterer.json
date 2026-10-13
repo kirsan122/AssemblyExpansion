@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "PCP",
+    "RMR",
+    "PCP"
+  ],
+  "key": {
+    "M": {
+      "tag": "forge:machine_frames"
+    },
+    "C": {
+      "tag": "forge:ingots/copper"
+    },
+    "P": {
+      "tag": "forge:plates/iron"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "assembly_expansion:mechanical_sinterer"
+  },
+  "show_notification": true
+}

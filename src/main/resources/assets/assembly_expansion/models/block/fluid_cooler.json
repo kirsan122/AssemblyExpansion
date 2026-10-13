@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "assembly_expansion:block/fluid_cooler/fluid_cooler_top",
+    "up": "assembly_expansion:block/fluid_cooler/fluid_cooler_top",
+    "down": "assembly_expansion:block/universal_bottom",
+    "north": "assembly_expansion:block/fluid_cooler/fluid_cooler_front",
+    "south": "assembly_expansion:block/fluid_cooler/fluid_cooler_back",
+    "east": "assembly_expansion:block/fluid_cooler/fluid_cooler_side",
+    "west": "assembly_expansion:block/fluid_cooler/fluid_cooler_side"
+  }
+}

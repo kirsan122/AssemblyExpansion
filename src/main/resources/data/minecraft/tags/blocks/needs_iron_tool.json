@@ -1,0 +1,9 @@
+{
+  "values": [
+    "assembly_expansion:lead_ore",
+    "assembly_expansion:deepslate_lead_ore",
+    "assembly_expansion:raw_lead_block",
+    "assembly_expansion:lead_block",
+    "assembly_expansion:deepslate_uranium_ore"
+  ]
+}

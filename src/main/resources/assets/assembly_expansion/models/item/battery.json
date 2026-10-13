@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "assembly_expansion:item/tools/battery_0"
+  },
+  "overrides": [
+    { "predicate": { "assembly_expansion:energy": 0.25 }, "model": "assembly_expansion:item/battery/battery_1" },
+    { "predicate": { "assembly_expansion:energy": 0.5 }, "model": "assembly_expansion:item/battery/battery_2" },
+    { "predicate": { "assembly_expansion:energy": 0.75 }, "model": "assembly_expansion:item/battery/battery_3"},
+    { "predicate": { "assembly_expansion:energy": 1.0 },  "model": "assembly_expansion:item/battery/battery_4" }
+  ]
+}

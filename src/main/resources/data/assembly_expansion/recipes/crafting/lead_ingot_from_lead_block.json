@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "assembly_expansion:lead_block"
+    }
+  ],
+  "result": {
+    "item": "assembly_expansion:lead_ingot",
+    "count": 9
+  },
+  "show_notification": true
+}

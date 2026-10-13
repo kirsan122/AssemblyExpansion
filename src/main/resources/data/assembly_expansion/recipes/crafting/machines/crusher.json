@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "IMI",
+    "TET"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "M": {
+      "tag": "forge:machine_frames"
+    },
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "E": {
+      "tag": "forge:circuits/basic"
+    },
+    "T": {
+      "tag": "forge:ingots/tin"
+    }
+  },
+  "result": {
+    "item": "assembly_expansion:crusher"
+  },
+  "show_notification": true
+}

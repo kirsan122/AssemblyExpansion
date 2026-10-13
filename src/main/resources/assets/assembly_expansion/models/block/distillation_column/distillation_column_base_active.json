@@ -1,0 +1,6 @@
+{
+  "parent": "assembly_expansion:block/distillation_column/distillation_column_base",
+  "textures": {
+    "0": "assembly_expansion:block/distillation_column/distillation_column_base_active"
+  }
+}

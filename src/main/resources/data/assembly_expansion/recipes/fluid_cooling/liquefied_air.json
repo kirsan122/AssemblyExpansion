@@ -1,0 +1,11 @@
+{
+  "type": "assembly_expansion:fluid_cooling",
+  "input": {
+    "fluid": "assembly_expansion:air",
+    "amount": 700
+  },
+  "output": {
+    "fluid": "assembly_expansion:liquefied_air",
+    "amount": 1
+  }
+}

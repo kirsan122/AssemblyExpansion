@@ -1,0 +1,13 @@
+{
+  "type": "assembly_expansion:sintering",
+  "base": {
+    "item": "minecraft:cobblestone"
+  },
+  "infusor": {
+    "item": "minecrfat:diorite"
+  },
+  "result": {
+    "item": "minecraft:andesite",
+    "count": 2
+  }
+}

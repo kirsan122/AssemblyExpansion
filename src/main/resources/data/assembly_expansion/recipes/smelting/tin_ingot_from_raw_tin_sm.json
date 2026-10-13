@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "assembly_expansion:tin_ingot",
+  "ingredient": {
+    "item": "assembly_expansion:raw_tin"
+  },
+  "result": "assembly_expansion:tin_ingot"
+}

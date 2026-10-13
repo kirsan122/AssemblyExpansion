@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "#": {
+      "tag": "forge:plates/tin"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    " R ",
+    "#C#",
+    " C "
+  ],
+  "result": {
+    "item": "assembly_expansion:battery"
+  },
+  "show_notification": true
+}

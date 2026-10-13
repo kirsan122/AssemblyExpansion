@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "forge:plates/iron"
+    },
+    "F": {
+      "tag": "forge:machine_frames"
+    },
+    "#": {
+      "tag": "forge:wires/copper"
+    },
+    "T": {
+      "item": "assembly_expansion:fluid_tank"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "Y": {
+      "tag": "forge:ingots/tin"
+    }
+  },
+  "pattern": [
+    "#T#",
+    "YFY",
+    "ICI"
+  ],
+  "result": {
+    "item": "assembly_expansion:electrolyzer"
+  },
+  "show_notification": true
+}

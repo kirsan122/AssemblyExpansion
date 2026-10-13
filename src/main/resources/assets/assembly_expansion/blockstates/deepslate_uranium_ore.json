@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "assembly_expansion:block/ores/deepslate_uranium_ore"
+    }
+  }
+}

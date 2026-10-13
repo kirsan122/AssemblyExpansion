@@ -1,0 +1,31 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "assembly_expansion:block/cables/core/insulated_copper_cable_core" }
+    },
+    {
+      "when": { "OR": [ { "north": true } ] },
+      "apply": { "model": "assembly_expansion:block/cables/side/insulated_copper_cable_side" }
+    },
+    {
+      "when": { "OR": [ { "east": true } ] },
+      "apply": { "model": "assembly_expansion:block/cables/side/insulated_copper_cable_side", "y": 90 }
+    },
+    {
+      "when": { "OR": [ { "south": true } ] },
+      "apply": { "model": "assembly_expansion:block/cables/side/insulated_copper_cable_side", "y": 180 }
+    },
+    {
+      "when": { "OR": [ { "west": true } ] },
+      "apply": { "model": "assembly_expansion:block/cables/side/insulated_copper_cable_side", "y": 270 }
+    },
+    {
+      "when": { "OR": [ { "up": true } ] },
+      "apply": { "model": "assembly_expansion:block/cables/side/insulated_copper_cable_side", "x": 270 }
+    },
+    {
+      "when": { "OR": [ { "down": true } ] },
+      "apply": { "model": "assembly_expansion:block/cables/side/insulated_copper_cable_side", "x": 90 }
+    }
+  ]
+}

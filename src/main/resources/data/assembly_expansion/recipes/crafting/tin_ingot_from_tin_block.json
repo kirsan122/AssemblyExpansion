@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "assembly_expansion:tin_block"
+    }
+  ],
+  "result": {
+    "item": "assembly_expansion:tin_ingot",
+    "count": 9
+  },
+  "show_notification": true
+}

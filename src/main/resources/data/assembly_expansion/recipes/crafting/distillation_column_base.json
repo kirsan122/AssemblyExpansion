@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "D": {
+      "item": "assembly_expansion:distillation_column_section"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "F": {
+      "item": "assembly_expansion:fluid_tank"
+    },
+    "#": {
+      "tag": "forge:plates/steel"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "pattern": [
+    "#G#",
+    "#D#",
+    "CFC"
+  ],
+  "result": {
+    "item": "assembly_expansion:distillation_column_base"
+  },
+  "show_notification": true
+}
